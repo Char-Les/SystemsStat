@@ -1,4 +1,4 @@
-all: stat.exe
+all: stat.c
 	gcc stat.c -o stat.exe
 
 run: all
